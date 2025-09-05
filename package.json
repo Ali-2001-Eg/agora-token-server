@@ -2,13 +2,12 @@
   "name": "agora-token-server",
   "version": "1.0.0",
   "description": "Agora Token Server for Flutter app",
-  "main": "api/generate-token.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "agora-access-token": "^2.0.4",
-    "uuid": "^9.0.0"
+    "uuid": "^11.1.0"
   },
   "keywords": ["agora", "token", "server"],
   "author": "Your Name",
